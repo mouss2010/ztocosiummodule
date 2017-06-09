@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "mouss2010",
+    "githubRepoName": "ztocosiummodule",
+    "npmModuleName": "ztocosiummodule",
+    "moduleGlobal": "ztocosiummodule",
+    "ngModuleName": "ZtocosiummoduleModule",
+    "selectorPrefix": "zto",
+    "projectTitle": "ztocosiummodule",
+    "projectDescription": "",
+    "authorName": "almostafa.nassih@zento.fr"
+  }
+}
